@@ -5,7 +5,7 @@ export const Landing = () => {
     <section className='landing'>
       <div className='dark-overlay'>
         <div className='landing-inner'>
-          <h1 className='x-large'>Casa</h1>
+          <h1 className='x-large'>PICS</h1>
           <p className='lead'>Create a profile</p>
           <div className='buttons'>
             <a href='register.html' className='btn btn-primary'>

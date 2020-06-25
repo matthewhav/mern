@@ -14,7 +14,7 @@
 }
 
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: cursive;
   font-size: 1rem;
   line-height: 1.6;
   background-color: #fff;
@@ -342,6 +342,7 @@ button {
   align-items: center;
   justify-content: center;
   text-align: center;
+  border: 2px solid white;
 }
 
 /* Profiles Page */
