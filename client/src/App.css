@@ -31,7 +31,7 @@ ul {
 }
 
 img {
-  width: 100%;
+  width: 40%;
 }
 
 /* Utilities */
@@ -306,9 +306,9 @@ button {
   padding: 0.7rem 2rem;
   position: fixed;
   z-index: 1;
-  width: 100%;
+  width: 80%;
   top: 0;
-  border-bottom: solid 1px var(--primary-color);
+  border-bottom: solid 1px yellow;
   opacity: 0.9;
 }
 
